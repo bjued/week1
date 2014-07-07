@@ -1,3 +1,0 @@
-<?
-exit ("http://kuipp.com");
-?>

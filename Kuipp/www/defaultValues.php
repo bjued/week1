@@ -1,0 +1,3 @@
+<?
+$defaultCount = 15;
+?>

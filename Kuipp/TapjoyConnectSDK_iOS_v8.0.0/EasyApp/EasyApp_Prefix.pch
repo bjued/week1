@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'EasyApp' target in the 'EasyApp' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

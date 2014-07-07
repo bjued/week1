@@ -1,0 +1,3 @@
+<?
+exit ("http://kuipp.com");
+?>

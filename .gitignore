@@ -159,6 +159,13 @@ xcuserdata
 *.moved-aside
 
 ####
+# PSDs should not be committed
+
+*.psd
+
+
+
+####
 # UNKNOWN: recommended by others, but I can't discover what these files are
 #
 # ...none. Everything is now explained.
